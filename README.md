@@ -35,12 +35,12 @@ Blueprint nodes and C++ hooks make it easy to replace former cloud calls, inject
 * X feed / live calls: <https://x.com/AIRewardrop>
 * Discord: <https://discord.gg/S4f87VdsHt>
 
-Need help fast? Tag **@funboy** in Telegram or open a GitHub issue.
+Need help fast? Tag **@funboynft** in Telegram or open a GitHub issue.
 
 ---
 
 ## Compatibility
-* Unreal Engine 5.1 → 5.4
+* Unreal Engine 5.5 → 5.5
 * Metahumans, Daz3D, Reallusion, ReadyPlayerMe, Avaturn and any custom SkeletalMesh
 * Windows 64‑bit, macOS ARM/Intel, Linux
   *Mobile and console exports on the roadmap*
